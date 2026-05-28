@@ -8,8 +8,7 @@ del processo produttivo. Questo mi ha insegnato precisione, problem solving e
 capacità di lavorare sotto pressione — qualità che porto anche nel codice.
 
 Nel 2025 ho completato un corso Full Stack da **400 ore** con Aulab, un corso Java/spring da **36 ore**
-ottenendo 3 attestati certificati. Ora sono pronto per la mia prima esperienza
-come **Junior Developer**.
+ottenendo 3 attestati certificati.
 
 ---
 
@@ -48,11 +47,6 @@ come **Junior Developer**.
 
 ---
 
-## GitHub Stats
-
-![Riccardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccardoLaRosa&show_icons=true&theme=default&hide_border=true)
-
----
 
 ##  Contatti
 
