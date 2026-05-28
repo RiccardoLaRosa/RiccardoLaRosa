@@ -1,4 +1,4 @@
-# Ciao, sono Riccardo 👋
+# Ciao, sono Riccardo
 
 **Full Stack Developer** con una storia un po' diversa dagli altri.
 
